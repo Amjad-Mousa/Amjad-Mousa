@@ -21,6 +21,53 @@ I'm constantly improving and looking forward to contributing to exciting project
 - 👨‍💻 All of my projects are available at [https://github.com/amjad-mousa](https://github.com/amjad-mousa)
 - 📫 How to reach me: **amjad.mousa.600@gmail.com**
 
+---
+
+### 📂 Projects
+
+- **Task Management System 📝**  
+  A web-based task management system built with React, Tailwind CSS, and React Router. This system allows users (students and admins) to sign up, manage tasks, and interact in a responsive and clean interface.
+
+  ✨ **Features:**  
+  🔐 User Authentication (Sign In / Sign Up)  
+  👤 Role-based Interface (Student / Admin)  
+  ✅ Task Management Dashboard  
+  🌙 Dark Mode Support  
+  🧭 Single Page Application (SPA)  
+  📱 Fully Responsive UI
+
+  🚀 **Tech Stack:**  
+  - Frontend: React, Tailwind CSS  
+  - Backend: Node.js, Express.js  
+  - Database: MongoDB  
+  - Auth: JWT  
+  - Tools: Postman  
+  - Routing: React Router
+
+  🔗 [View on GitHub](https://github.com/Amjad-Mousa/Task-Management-System)
+
+---
+
+- **HopeConnect 🌍**  
+  A RESTful backend API platform to support orphaned children in Gaza post-war by facilitating donations, sponsorships, and volunteer services in a secure and impactful way.
+
+  ✨ **Features:**  
+  💰 Donation & Sponsorship System  
+  🔐 Secure JWT Authentication & Role-Based Access  
+  🤝 Volunteer Coordination with Orphanages  
+  📄 API Documentation via Swagger / Postman  
+  🌐 Integration with External APIs (e.g., currency exchange, geo-location)
+
+  🚀 **Tech Stack:**  
+  - Backend: Node.js, Express.js  
+  - Database: MySQL + Sequelize ORM  
+  - Auth: JWT  
+  - Tools: Swagger / Postman, Git, GitHub
+
+  🔗 [View on GitHub](https://github.com/Amjad-Mousa/HopeConnect)
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/amjad mousa" target="blank">
