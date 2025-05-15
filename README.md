@@ -86,26 +86,20 @@ I'm constantly improving and looking forward to contributing to exciting project
   </a>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amjad-mousa&show_icons=true&locale=en&layout=compact" alt="amjad-mousa" />
+<h3 align="left">Projects:</h3>
+<ul>
+  <li>
+    <a href="https://github.com/Amjad-Mousa/Task-Management-System">Task Management System</a> - Web app for task management using React, Tailwind CSS, MongoDB, and JWT authentication.
+  </li>
+  <li>
+    <a href="https://github.com/Amjad-Mousa/HopeConnect">HopeConnect</a> - Backend REST API to support donations and sponsorships for orphaned children.
+  </li>
+</ul>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amjad-mousa&show_icons=true&count_private=true&theme=radical" alt="Amjad's GitHub Stats" />
 </p>
 
----
-
-### 📂 Projects
-
----
-
-### Task Management System
-**Description:** Web app for task management with authentication and role-based access.  
-**Tech:** React, Tailwind CSS, Node.js, MongoDB, JWT  
-🔗 [GitHub Repository](https://github.com/Amjad-Mousa/Task-Management-System)
-
----
-
-### HopeConnect
-**Description:** Backend REST API supporting donations, sponsorships, and volunteer coordination.  
-**Tech:** Node.js, Express, MySQL, JWT  
-🔗 [GitHub Repository](https://github.com/Amjad-Mousa/HopeConnect)
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amjad-mousa&layout=compact&theme=radical" alt="Amjad's Top Languages" />
+</p>
