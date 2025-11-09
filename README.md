@@ -1,24 +1,23 @@
 <h1 align="center">Hi ✨ I'm Amjad Mousa ✨</h1>
-<h3 align="center">👨‍💻 Backend Developer | C# | .NET | Git & GitHub Enthusiast 🚀
+<h3 align="center">👨‍💻 Software Engineer 🚀</h3>
 
-I'm a passionate <strong>Beginner Backend Developer</strong> eager to learn and grow in the world of software development. I have experience with <strong>C#</strong> and <strong>.NET</strong>. I enjoy building scalable, efficient, and secure back-end systems and always strive to improve my skills.
+<p align="center">
+I'm a passionate <strong>Backend Developer</strong> eager to learn and grow in the world of software development. I have experience with <strong>C#</strong> and <strong>.NET</strong>. I enjoy building scalable, efficient, and secure back-end systems and always strive to improve my skills.
+</p>
 
 ### 🔧 Skills & Tools:
-- **Backend**: C#, Node.js, .NET
-- **Databases**: PostgreSQL, MySQL, MongoDB
-- **Frontend**: React
-- **Version Control**: Git, GitHub
-- **Technologies**: REST APIs, Authentication
-- **Other**: Docker, Linux, API Development, Postman
-
-I'm constantly improving and looking forward to contributing to exciting projects. Let's connect and build something amazing! 💻✨
-</h3>
+- **Backend**: C#, .NET, Node.js, Blazor Server & WebAssembly  
+- **IDE / Tools**: Radzen Server Studio, Visual Studio, Postman, Docker, Linux  
+- **Databases**: SQL Server, PostgreSQL, MySQL, MongoDB, EF Core  
+- **Frontend**: React, Blazor  
+- **Version Control**: Git, GitHub  
+- **Technologies**: REST APIs, Authentication, JWT, Razor Pages
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=amjad-mousa&label=Profile%20views&color=0e75b6&style=flat" alt="amjad-mousa" />
 </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/amjad-mousa](https://github.com/amjad-mousa)
+- 👨‍💻 All of my projects are available at [https://github.com/amjad-mousa](https://github.com/amjad-mousa)  
 - 📫 How to reach me: **amjad.mousa.600@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -84,28 +83,4 @@ I'm constantly improving and looking forward to contributing to exciting project
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amjad-mousa&show_icons=true&locale=en&layout=compact" alt="amjad-mousa" />
-</p>
-
----
-
-### 📂 Projects
-
----
-
-### Task Management System
-**Description:** Web app for task management with authentication and role-based access.  
-**Tech:** React, Tailwind CSS, Node.js, MongoDB, JWT  
-🔗 [GitHub Repository](https://github.com/Amjad-Mousa/Task-Management-System)
-
----
-
-### HopeConnect
-**Description:** Backend REST API supporting donations, sponsorships, and volunteer coordination.  
-**Tech:** Node.js, Express, MySQL, JWT  
-🔗 [GitHub Repository](https://github.com/Amjad-Mousa/HopeConnect)
-
----
+  <a href="https://dotnet.microsoft.com/apps/aspnet/web-app
