@@ -7,7 +7,7 @@ I'm a passionate <strong>Backend Developer</strong> eager to learn and grow in t
 
 ### 🔧 Skills & Tools:
 - **Backend**: C#, .NET, Node.js, Blazor Server & WebAssembly  
-- **IDE / Tools**: Radzen Server Studio, Visual Studio, Postman, Docker, Linux  
+- **IDE / Tools**: Radzen Blazor Studio, Visual Studio, Postman, Docker, Linux  
 - **Databases**: SQL Server, PostgreSQL, MySQL, MongoDB, EF Core  
 - **Frontend**: React, Blazor  
 - **Version Control**: Git, GitHub  
