@@ -1,6 +1,6 @@
 <h1 align="center">Amjad Mousa</h1>
 <p align="center">
-  <strong>Backend Engineer | .NET Fullstack Developer</strong>
+  <strong>Backend Engineer | .NET Ecosystem Specialist</strong>
 </p>
 
 <p align="center">
@@ -10,37 +10,26 @@
 
 ---
 
-### 🌐 Profile Overview
-I am a **Backend Engineer** focusing on the design and implementation of distributed, scalable, and high-performance server-side applications within the **.NET ecosystem**. My core approach centers around strict adherence to SOLID principles, Clean Architecture patterns, and domain-driven design to build maintainable enterprise solutions.
+### 🌐 Professional Profile
+I am a **Backend Engineer** dedicated to designing, building, and optimizing distributed, high-throughput server-side applications. My engineering philosophy focuses heavily on writing highly maintainable, testable, and decoupled code, ensuring that enterprise systems can scale seamlessly under heavy workloads.
 
 ---
 
-### 🛠️ Core Architectural Competencies
+### 🛠️ Core Competencies & Engineering Focus
 
-* **Architecture & Patterns:** Clean Architecture, Domain-Driven Design (DDD), Test-Driven Development (TDD).
-* **Data Engineering & Performance:** Advanced Database Indexing, Query Optimization, Concurrency Conflict Resolution (Optimistic/Pessimistic Locking).
-* **Observability & DevOps:** Structured Logging, System Diagnostics, OpenTelemetry, Containerization (Docker), CI/CD Automation via GitHub Actions.
+* **Software Architecture:** Strict adherence to SOLID principles, Clean Architecture, Domain-Driven Design (DDD), and Test-Driven Development (TDD).
+* **Data Engineering & Performance Tuning:** Advanced Database Indexing, Query Optimization, Transaction Management, and Concurrency Conflict Resolution (Optimistic/Pessimistic Locking).
+* **System Observability & Lifecycle:** Production telemetry orchestration (OpenTelemetry), Structured Logging, Containerization (Docker), and Infrastructure Automation via CI/CD pipelines.
 
 ---
 
 ### 💻 Technical Stack
 
-* **Languages & Core:** C#, .NET Core, ASP.NET Core, C++, SQL, JavaScript.
-* **Data Stores & ORMs:** Entity Framework Core, SQL Server, PostgreSQL, MySQL, MongoDB.
-* **Tools & Infrastructure:** Docker, Linux, Postman, Git/GitHub.
+* **Languages & Core Frameworks:** C#, .NET Core, ASP.NET Core, C++, SQL, JavaScript.
+* **Data Stores & Data Layers:** Entity Framework Core, SQL Server, PostgreSQL, MySQL, MongoDB.
+* **Tools & Infrastructure Platforms:** Docker, Linux, Postman, Git/GitHub.
 
 ---
-
-### 📂 Featured Production Repositories
-
-* 🚀 **[RestaurantReservation](https://github.com/amjad-mousa)**  
-  *An enterprise-grade server-side application built with Clean Architecture, leveraging robust data layers, advanced validation, and transactional data integrity.*
-
-* 🚀 **[NexuQuest](https://github.com/amjad-mousa)**  
-  *A scalable application prototype demonstrating system optimization, highly decoupled layers, and efficient data processing workflows.*
-
----
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amjad-mousa&show_icons=true&theme=flat&count_private=true&hide_title=true" alt="GitHub Stats" />
+  <sub><i>Focusing on performance, maintainability, and architectural integrity.</i></sub>
 </p>
