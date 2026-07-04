@@ -1,86 +1,67 @@
-<h1 align="center">Hi ✨ I'm Amjad Mousa ✨</h1>
-<h3 align="center">👨‍💻 Software Engineer 🚀</h3>
+<h1 align="center">Hi ✨ I'm Amjad Mousa</h1>
+<p align="center">
+  <strong>Backend Engineer | .NET Fullstack Developer</strong>
+</p>
 
 <p align="center">
-I'm a passionate <strong>Backend Developer</strong> eager to learn and grow in the world of software development. I have experience with <strong>C#</strong> and <strong>.NET</strong>. I enjoy building scalable, efficient, and secure back-end systems and always strive to improve my skills.
+  <a href="https://linkedin.com/in/amjad-mousa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:amjad.mousa.600@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### 🔧 Skills & Tools:
-- **Backend**: C#, .NET, Node.js, Blazor Server & WebAssembly  
-- **IDE / Tools**: Radzen Blazor Studio, Visual Studio, Postman, Docker, Linux  
-- **Databases**: SQL Server, PostgreSQL, MySQL, MongoDB, EF Core  
-- **Frontend**: React, Blazor  
-- **Version Control**: Git, GitHub  
-- **Technologies**: REST APIs, Authentication, JWT, Razor Pages
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=amjad-mousa&label=Profile%20views&color=0e75b6&style=flat" alt="amjad-mousa" />
+<p align="center">
+  I am a passionate <strong>Backend Engineer</strong> specializing in the <strong>.NET Ecosystem</strong>. I focus on building high-performance, scalable, and secure server-side applications, with a strong commitment to clean code, robust software architecture, and optimization practices.
 </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/amjad-mousa](https://github.com/amjad-mousa)  
-- 📫 How to reach me: **amjad.mousa.600@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/amjad mousa" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amjad mousa" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/أمجد موسى" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="أمجد موسى" height="30" width="40" />
-  </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amjad-mousa&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### 🚀 Core Expertise & Focus
+* **Architectural Patterns:** Clean Architecture, Domain-Driven Design (DDD), SOLID Principles.
+* **Performance & Optimization:** Database Indexing & Query Tuning, Global Error Handling, Object Mapping (AutoMapper/Mapster), Automated Dependency Injection (Scrutor).
+* **Data Integrity & Concurrency:** Advanced Concurrency Conflict Resolution (Optimistic & Pessimistic Concurrency control).
+
+---
+
+### 🔧 Skills & Tech Stack
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Backend & Core Frameworks</h4>
+      <ul>
+        <li><strong>Languages:</strong> C#, C++, C, JavaScript, Node.js</li>
+        <li><strong>Frameworks:</strong> ASP.NET Core, EF Core, Blazor (Server & WebAssembly), Razor Pages</li>
+        <li><strong>APIs & Security:</strong> RESTful APIs, JWT Authentication & Authorization, Global Exception Handling</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🗄️ Databases & DevOps</h4>
+      <ul>
+        <li><strong>Databases:</strong> SQL Server, PostgreSQL, MySQL, MongoDB</li>
+        <li><strong>DevOps & Tools:</strong> Docker, Linux, CI/CD Pipelines (GitHub Actions)</li>
+        <li><strong>IDEs & Testing:</strong> Visual Studio, Postman, Radzen Blazor Studio</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Tech Stack Icons
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/apps/aspnet/web-app
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,c,js,nodejs,react,blazor,html,css,svg" alt="Languages and Frameworks" /><br><br>
+  <img src="https://skillicons.dev/icons?i=mssql,postgres,mysql,mongodb,docker,linux,git,github,postman" alt="Databases and Tools" />
+</p>
+
+---
+
+### 📂 Featured Repositories
+* 🔹 **[RestaurantReservation](https://github.com/amjad-mousa)** - A comprehensive backend system built with Clean Architecture, robust validation, and transactional data integrity.
+* 🔹 **[NexuQuest](https://github.com/amjad-mousa)** - Modern software prototype demonstrating scalable architecture and real-time processing capabilities.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amjad-mousa&show_icons=true&theme=visual_studio_dark&count_private=true" alt="Amjad's GitHub Stats" />
+</p>
